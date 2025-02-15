@@ -1,6 +1,7 @@
 <div align="center">
 
-<img width="324" src="https://github.com/afloat-foundation/Evolution/blob/9d74646f9e62686463032f2dd6cd22300fcdd56f/Graphics/Logo/AfloatLogoText.png">
+<img width="324" src="https://github.com/afloat-foundation/.github/blob/main/profile/AfloatLogoText.png">
+
 
 <br>
 
